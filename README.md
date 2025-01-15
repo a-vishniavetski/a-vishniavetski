@@ -1,6 +1,6 @@
 # 💫 About Me:
-Python Engineer with experience in Backend and an interest in Data Engineering. SQL, Azure Cloud and Docker.
-Right now I am studying Machine Learning. <br>
+Python Engineer with experience in Backend. SQL, Azure Cloud and Docker.
+Right now I am also studying Machine Learning. <br>
 
 
 ## 🌐 Socials:
