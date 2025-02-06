@@ -1,6 +1,6 @@
 # 💫 About Me:
-Python Engineer with experience in Backend. SQL, Azure Cloud and Docker.
-Right now I am also studying Machine Learning. <br>
+Python Software Engineer with experience in Backend with Django. Developed applications in teams ranging from 2 to 15 members. Participated in the full development life cycle: from gathering product owner requirements and designing architecture to development, testing and deployment. Familiar with working in an international environment.
+In addition to core knowledge of Python, I have implemented features with Azure Cloud and Docker. I am passionate about Machine Learning and stay up to date with its applications. I enjoy challenges, and have won a Hackathon organized in 2024 by Commerzbank and Red Hat. <br>
 
 
 ## 🌐 Socials:
